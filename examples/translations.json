@@ -1,0 +1,70 @@
+{
+  "cultural_date_format": "%d-%m-%Y",
+  "languages": ["id", "eng"],
+  "translation": [
+    {
+      "id": "best_rating",
+      "eng": "Best"
+    },
+    {
+      "id": "practices_best_safety_rating",
+      "eng": "Threatened seabirds are unlikely to be caught."
+    },
+    {
+      "id": "monitoring_best_safety_rating",
+      "eng": "Can verify if seabird-safe practices are used and if all specifications are met."
+    },
+    {
+      "id": "partial_rating",
+      "eng": "Partial"
+    },
+    {
+      "id": "practices_partial_safety_rating",
+      "eng": "Threatened seabirds might still be caught."
+    },
+    {
+      "id": "monitoring_partial_safety_rating",
+      "eng": "Can verify if seabird-safe practices are used, and if some but not all specifications are met."
+    },
+    {
+      "id": "poor_rating",
+      "eng": "Poor"
+    },
+    {
+      "id": "practices_poor_safety_rating",
+      "eng": "Threatened seabirds are likely to be caught."
+    },
+    {
+      "id": "monitoring_poor_safety_rating",
+      "eng": "Cannot verify if seabird-safe practices are used but can verify if some specifications are met."
+    },
+    {
+      "id": "none_rating",
+      "eng": "None"
+    },
+    {
+      "id": "practices_none_safety_rating",
+      "eng": "Threatened seabirds are highly likely to be caught."
+    },
+    {
+      "id": "monitoring_none_safety_rating",
+      "eng": "Cannot verify if seabird-safe practices are used or if any specifications are met."
+    },
+    {
+      "id": "practices_gauge_text",
+      "eng": "Seabird safety rating"
+    },
+    {
+      "id": "practices_gauge_text_empty",
+      "eng": "Please select seabird safe practices to begin"
+    },
+    {
+      "id": "monitoring_gauge_text",
+      "eng": "Monitoring rating"
+    },
+    {
+      "id": "monitoring_gauge_text_empty",
+      "eng": "Please select monitoring methods to begin"
+    }
+  ]
+}
