@@ -9,12 +9,12 @@ This folder contains the code for the Gauge Plot used in the Seabirds Dashboard 
 To install the package from GitHub (required for shinyapps.io deployment):
 
 ```r
-remotes::install_github("Epi-interactive-Ltd/seabirdsGauge@v0.0.1")
+remotes::install_github("epi-interactive/seabirdsGauge@v0.0.1")
 ```
 
 ### Installing Locally
 
-To install the package locally, first clone the repository and then install the dependencies:
+First clone the repository and then install the dependencies:
 
 ```r
 install.packages("devtools")
